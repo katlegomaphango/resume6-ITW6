@@ -35,7 +35,7 @@ aside a{
     color: aliceblue;
 }
 
-aside li {
+aside .header li {
     list-style: none;
 }
 
